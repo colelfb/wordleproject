@@ -3,4 +3,6 @@ I am trying to create Wordle in Python for a project. I have some code already b
 
 I know the basics of python but don't hesitate to teach me new modules/commands that would work better as I need to learn the language better.
 
+I am basically new to Github aswell so please give me tips on that aswell :D.
+
 Thank you.
